@@ -24,5 +24,4 @@ eg. if randome no is 2 then enter 8, if random no is 4 then enter 64
 
 
 
-Jay Kapasi
-jkapasi05@gmail.com 
+ 
